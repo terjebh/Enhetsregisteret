@@ -26,7 +26,6 @@ public class App {
             Firma f1 = new Firma();
             f1.hentFirma(firmanavn, format, firma);
             f1.lagreFirma(firmanavn, format, firma);
-            // f1.visFirma(firmanavn);
         } //slutt på while-løkken
 
     } // slutt på main-metoden
